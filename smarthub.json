@@ -1,0 +1,74 @@
+{
+    "sections": [
+        {
+            "tiles": [
+                {
+                    "action_data": "page=Movies&action=view",
+                    "image_ratio": "16:9",
+                    "image_url": "http://developer.samsung.com/onlinedocs/tv/Preview/3.jpg",
+                    "is_playable": "true",
+                    "subtitle": "Go to movies",
+                    "title": "Movies & TV",
+                    "position": 1
+                },
+                {
+                    "action_data": "page=Explore&action=view",
+                    "image_ratio": "16:9",
+                    "image_url": "http://developer.samsung.com/onlinedocs/tv/Preview/1.jpg",
+                    "is_playable": "true",
+                    "subtitle": "Go to explore",
+                    "title": "Explore",
+                    "position": 2
+                }
+            ],
+            "title": "Popular Tabs",
+            "position": 1
+        },
+        {
+            "tiles": [
+                {
+                    "action_data": "assetid=Global_MomLife_Thursday&action=watch",
+                    "image_ratio": "1:1",
+                    "image_url": "http://developer.samsung.com/onlinedocs/tv/Preview/2.jpg",
+                    "is_playable": "true",
+                    "title": "Watch Mom's Life",
+                    "position": 1
+                },
+                {
+                    "action_data": "assetid=0_tth6fdgi&action=watch&mediatype=movie",
+                    "image_ratio": "16:9",
+                    "image_url": "http://developer.samsung.com/onlinedocs/tv/Preview/3.jpg",
+                    "is_playable": "true",
+                    "title": "Watch The Stranger",
+                    "position": 2
+                },
+                {
+                    "action_data": "assetid=0_e2lj54yz&action=watch&mediatype=movie",
+                    "image_ratio": "16:9",
+                    "image_url": "http://developer.samsung.com/onlinedocs/tv/Preview/3.jpg",
+                    "is_playable": "true",
+                    "title": "Watch Shots Fired",
+                    "position": 3
+                },
+                {
+                    "action_data": "marketId=gaAtlanta&action=watch&mediatype=short-form",
+                    "image_ratio": "1:1",
+                    "image_url": "http://developer.samsung.com/onlinedocs/tv/Preview/2.jpg",
+                    "is_playable": "true",
+                    "title": "See What's playing in Atlanta",
+                    "position": 4
+                },
+                {
+                    "action_data": "ch&mediatype=live",
+                    "image_ratio": "1:1",
+                    "image_url": "http://developer.samsung.com/onlinedocs/tv/Preview/2.jpg",
+                    "is_playable": "true",
+                    "title": "Live in Anchorage",
+                    "position": 5
+                }
+            ],
+            "title": "Watch",
+            "position": 2
+        }
+    ]
+}
