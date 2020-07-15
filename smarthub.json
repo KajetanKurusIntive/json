@@ -13,7 +13,7 @@
              },
              {
                  "title":"Explore",
-                 "image_ratio":"16:9",\
+                 "image_ratio":"16:9",
                  "image_url":"https://s3.us-east-1.amazonaws.com/qaott.weather.com/content/image/tizenLogos/WeatherChannel/LN_Samsung_Preview_EXPLORE_444x250.png",
                  "action_data":"page=Explore&action=view",
                  "is_playable":"false",
@@ -24,7 +24,7 @@
                  "image_ratio":"16:9",
                  "image_url":"https://s3.us-east-1.amazonaws.com/qaott.weather.com/content/image/tizenLogos/WeatherChannel/LN_Samsung_Preview_MOVIESTV_444x250.png",
                  "action_data":"page=Movies&action=view",
-                 "is_playable":"false"
+                 "is_playable":"false",
                  "position": 3
              }
          ]
