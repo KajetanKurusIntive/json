@@ -2,6 +2,7 @@
     "sections":[
         {
          "title":"LocalNow",
+         "position": 1,
          "tiles":[
              {
                 "title":"Today",
