@@ -5,26 +5,26 @@
          "position": 1,
          "tiles":[
              {
-                "title":"Today",
+                "title":"My-mix",
                 "image_ratio":"16:9",
                 "image_url":"http://developer.samsung.com/onlinedocs/tv/Preview/2.jpg",
-                "action_data":"/my-mix",
+                "action_data":"my-mix",
                 "is_playable":"false",
                 "position": 1
              },
              {
-                 "title":"Explore",
+                 "title":"Channels",
                  "image_ratio":"16:9",
                  "image_url":"http://developer.samsung.com/onlinedocs/tv/Preview/2.jpg",
-                 "action_data":"/movies",
+                 "action_data":"channels",
                  "is_playable":"false",
                  "position": 2
              },
              {
-                 "title":"Movies & TV",
+                 "title":"Life hacks",
                  "image_ratio":"16:9",
                  "image_url":"http://developer.samsung.com/onlinedocs/tv/Preview/2.jpg",
-                 "action_data":"/channels",
+                 "action_data":"player/ln-life-hacks-parentchannel",
                  "is_playable":"false",
                  "position": 3
              }
