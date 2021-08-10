@@ -28,7 +28,18 @@
                  "is_playable":"false",
                  "position": 3
              }
+             ,
+             {
+                 "title":"Life hacks Episode 5",
+                 "image_ratio":"16:9",
+                 "image_url":"http://developer.samsung.com/onlinedocs/tv/Preview/2.jpg",
+                 "action_data":"player/ln-life-hacks-parentchannel/5-household-items-you-should-clean-every-day",
+                 "is_playable":"false",
+                 "position": 4
+             }
          ]
         }
     ]
 }
+
+
